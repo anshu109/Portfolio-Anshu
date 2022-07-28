@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    background-color: white;
+    overflow: auto;
+}
+.nav-bar li {
+    list-style: none;
+    padding: 10px 10px;
+    font-size: 22px;
+    margin-top: 0%;
+    margin: 0% 1%;
+
+
+}
+.nav-bar li a {
+    text-decoration: none;
+    padding-left: 3px 3px;
+    color: black;
+}
+
+.nav-bar li h3 {
+    font-size: 60px;
+    margin-left: 5%;
+}
+.port-head{
+    color: #00ABAE;
+}
+.about{ 
+    float: right;
+
+}
+.Projects {
+    float: right;
+}
+.Contact {
+    float: right;
+}
+.nav-bar li h3 {
+    float: left;
+
+}
+
+.intro {
+    width: 50%;
+    float: left;
+    margin-top: 10%;
+}
+.dp {
+    width: 50%;
+    float: right;
+    margin-top: 5%;
+}
+.intro p{
+    font-size: 50px;
+    margin-left: 5%;
+}
+.dp img{
+   
+    border-radius: 50%;
+    border: 10px solid blueviolet;
+    margin-left: 10%;
+}
+.social{
+    padding: 50%;
+    text-decoration: none;
+}
+.github{
+    font-size: 250%;
+    margin: 5%;
+    background-color: rgb(146, 203, 156);
+    
+}
+.linkedin{
+    font-size: 250%;
+    margin: 5%;
+    background-color: rgb(146, 203, 156);
+    text-decoration: none;
+    
+}

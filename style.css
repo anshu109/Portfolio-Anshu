@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Avenir;
+}
+
+.nav-bar {
+    background-color: white;
+    overflow: auto;
+}
+
+.nav-bar li {
+    list-style: none;
+    padding: 10px 10px;
+    font-size: 22px;
+    margin-top: 0%;
+    margin: 0% 1%;
+
+
+}
+
+.nav-bar li a {
+    text-decoration: none;
+    padding-left: auto;
+    color: black;
+}
+
+.nav-bar li h3 {
+    font-size: 60px;
+    margin-left: 5%;
+}
+
+.port-head {
+    color: #00ABAE;
+}
+
+.about {
+    float: right;
+
+}
+
+.Projects {
+    float: right;
+}
+
+.Contact {
+    float: right;
+}
+
+.nav-bar li h3 {
+    float: left;
+
+}
+.personal{
+    display: flex;
+    justify-content: space-around;
+
+}
+.intro {
+    width: 50%;
+    float: left;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+
+.dp {
+    width: 50%;
+    float: right;
+    margin-top: 5%;
+}
+
+.intro p {
+    font-size: 40px;
+    margin-left: 5%;
+    text-align:initial;
+}
+
+.dp img {
+
+    border-radius: 50%;
+    border: 10px solid #00ABAE;
+    margin-left: 10%;
+}
+
+.social {
+    margin: 0%;
+    text-decoration: none;
+    
+}
+
+.github {
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 4%;
+    background-color: #00ABAE;
+    font-size: xx-large;
+    border-radius: 20px;
+    font-size: 250%;
+}
+
+.linkedin {
+    margin-left: 0%;
+    background-color: #00ABAE;
+    border-radius: 20px;
+    font-size: 250%;
+
+}
+
+.linkedin a {
+    text-decoration: none;
+    padding: 50px;
+    margin-top: 10%;
+    font-size: large;
+    color: white;
+}
+
+.github a {
+    text-decoration: none;
+    padding: 50px;
+    font-size: large;
+    color: white;
+}
+
+.cv {
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-right: 4%;
+    background-color: #00ABAE;
+    border-radius: 20px;
+    font-size: 250%;
+
+}
+.cv a{
+    text-decoration: none;
+    padding: 50px;
+    font-size: large;
+    color: white;
+}
+
+.mywork{
+    margin-top: 2%;
+    padding-top: 5%;
+    padding-left: 2%;
+}
+.mywork h1{
+    padding-bottom: 1%;
+    font-size:  50px;
+}
+.mywork li{
+    list-style: none;
+    padding: 10px 10px;
+    font-size: 22px;
+    margin-top: 0%;
+    margin: 0% 1%;
+}
+.desc{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-bottom: 35px;
+}
+.gd li{
+    list-style: none;
+    padding: 10px 10px;
+    font-size: 22px;
+    margin-top: 0%;
+    margin: 0% 1%;
+ 
+}
+.skill h2{
+    font-size: 250%;
+    margin-bottom: 4%;
+    margin-left: 2%;
+
+}
+.skill img{
+    padding: 1%;
+    margin:3%;
+}
+
+.Group{
+    display: flex;
+}
+h1{
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.gd{
+width: 50%;
+margin-left: 2%;
+}
+.gd p{
+    width: 80%;
+    font-size:large;
+}
+.gd-img{    width: 50%;
+
+}
+
+.twit{
+    display: flex;
+    margin-top: 3%;
+}
+
+.tc{
+width: 50%;
+margin-left: 2%;
+}
+
+.tc p{
+    width: 80%;
+    font-size:large;
+}
+.tc-img{
+    width: 50%;
+}
+.ending{
+    margin-top: 7%;
+}
+.ending h1{
+    text-align:center;
+    font-size:300%;
+}
+.ending p{
+    text-align:center;
+    font-size:180%;
+    margin-bottom:2%;
+}
+.rights{
+    text-align:center;
+}
+
+
